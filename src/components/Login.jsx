@@ -28,7 +28,7 @@ const Login = () => {
     async function signupHandler(e) {
         e.preventDefault();
         console.log(input);
-        console.log('base url ', import.meta.env.VITE_BASE_URL);
+
         try {
             setLoading(true);
             const res = await axios.post(`${import.meta.env.VITE_BASE_URL}/api/v1/user/login`, input, {
@@ -39,6 +39,7 @@ const Login = () => {
             });
             
             if (res.data.success) {
+                
                 dispatch(setAuthUser(res.data.user));
                 navigate('/');
                 toast.success(res.data.message);
