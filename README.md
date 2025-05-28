@@ -1,11 +1,19 @@
+
+## 🔗 Deployed link
+
+Check out the live deployed project here:  
+[Bond Spheree](https://bond-spheree.vercel.app/)
+
+# Use the following credentials to log in:
+- **Email:** vivekkushwaha734@gmail.com  
+- **Password:** 23637213
+
 # Social Media Platform Bondsphere (MERN STACK)
 
 A full-fledged social media platform where users can interact via posts, real-time chat, and follow other users. Built using the MERN stack with real-time features powered by Socket.IO and efficient media handling using Cloudinary.
 
 
-> Use the following credentials to log in:
-- **Email:** vivekkushwaha734@gmail.com  
-- **Password:** 23637213
+
 
 ## 🌐 Live Demo (Video Walkthrough)
 ---
