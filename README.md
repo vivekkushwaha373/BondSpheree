@@ -9,7 +9,8 @@ A full-fledged social media platform where users can interact via posts, real-ti
 - **Password:** 23637213
 
 ---
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=0PauEit393U)
+🎥 [![Watch the video](https://img.youtube.com/vi/0PauEit393U/maxresdefault.jpg)](https://youtu.be/0PauEit393U)
+
 
 
 ## ⚙️ Tech Stack
